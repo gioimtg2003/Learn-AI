@@ -1,0 +1,13 @@
+# add gitignore for python env
+
+# Python
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+dist
+build   
+
+
+.env
